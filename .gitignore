@@ -73,3 +73,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#server
+server
+
+#libraries
+ngmodules
+angular.js
+bootstrap*.js
