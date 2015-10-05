@@ -80,4 +80,4 @@ server
 #libraries
 ngmodules
 angular.js
-bootstrap*.js
+bootstrap*.css
